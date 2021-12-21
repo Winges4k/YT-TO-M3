@@ -1,5 +1,17 @@
 #! /usr/bin/python3
 banner = r'''
+BE MOVIE HD |Arabic Movies| https://m.ytn.co.kr/img/live/tit_ytn.png |
+ttps://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+Respected movies HD |Arabic Movies| https://m.ytn.co.kr/img/program/channel_logo_S.png |
+https://www.youtube.com/channel/UCh_fij4X0fdHO6kDUgzeQpQ/live
+Play Media HD |Arabic Movies| https://m.ytn.co.kr/img/program/channel_logo_D.png |
+https://www.youtube.com/channel/UCgeaM5qcsBhh_o0hNo5q70A/live
+Baynounah |Saudi Arabia| https://baynounah.ae/media/1092/baynounah-logo.png |
+https://www.youtube.com/c/BaynounahtvAD/live
+Alwaqiaa |Saudi Arabia| https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/1050/center/80/cd7bbe88-915e-47e9-82f4-3132d1d5498d-large16x9_coronaviruspandemic.png |
+https://www.youtube.com/channel/UCbnHOTI-v-xp9MBdp57JsJw/about/live
+Toyour |Saudi Arabia| https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg |
+https://www.youtube.com/user/toyorlive/Live
 #EXTINF:-1 tvg-name="VTV1 HD - Thời sự tổng hợp" tvg-id="vtv1hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV1_HD_M.png" group-title="Kênh VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-name="VTV2 HD - Khoa học & giáo dục" tvg-id="vtv2hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV2_HD_M.png" group-title="Kênh VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
